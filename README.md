@@ -1,4 +1,4 @@
-Here’s your `README.md` file for GitHub:
+
 
 ```markdown
 # Flask-K8s-App
