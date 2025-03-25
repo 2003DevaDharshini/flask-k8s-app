@@ -3,12 +3,6 @@
 ## **Overview**
 This is a Flask application deployed on Kubernetes using Minikube and Docker.
 
-## **Features**
-- 🚀 **RESTful API** for handling requests  
-- 📊 **Data visualization** using Flask and HTML templates  
-- 🐳 **Containerized application** using Docker  
-- ☸️ **Orchestrated deployment** on Kubernetes using Minikube  
-
 ## **Project Structure**
 ```plaintext
 flask-k8s-app/  
